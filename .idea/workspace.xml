@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af7848a7-f867-41cb-b05f-fdb337b05d07" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YwIsuYyxljZHrUBVQ9u1h4mzHc" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../idea/docs" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Server 8080">
+    <configuration name="Initiator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="implementation.process.Initiator" />
+      <module name="players" />
+      <option name="PROGRAM_PARAMETERS" value="8080" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementation.process.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server 8080" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="implementation.process.ListnerServer" />
+      <module name="players" />
+      <option name="PROGRAM_PARAMETERS" value="8080" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementation.process.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Server 8080" />
+      <item itemvalue="Application.Initiator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server 8080" />
+        <item itemvalue="Application.Initiator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af7848a7-f867-41cb-b05f-fdb337b05d07" name="Default Changelist" comment="" />
+      <created>1583847439519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583847439519</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="187" width="800" height="675" key="#Inspections" timestamp="1584630240987">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="555" y="187" width="800" height="675" key="#Inspections/0.0.1920.1053@0.0.1920.1053" timestamp="1584630240987" />
+    <state x="284" y="170" width="1169" height="679" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584636588075">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="284" y="170" width="1169" height="679" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1584636588075" />
+    <state x="492" y="0" width="926" height="1051" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584630225502">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="492" y="0" width="926" height="1051" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1584630225502" />
+    <state x="718" y="230" key="#xdebugger.evaluate" timestamp="1583932077356">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="718" y="230" key="#xdebugger.evaluate/0.0.1920.1053@0.0.1920.1053" timestamp="1583932077356" />
+    <state x="759" y="339" width="424" height="482" key="FileChooserDialogImpl" timestamp="1584016683862">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="759" y="339" width="424" height="482" key="FileChooserDialogImpl/0.0.1920.1053@0.0.1920.1053" timestamp="1584016683862" />
+    <state width="1874" height="344" key="GridCell.Tab.0.bottom" timestamp="1584956487321">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1584956487321" />
+    <state width="1874" height="344" key="GridCell.Tab.0.center" timestamp="1584956487320">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1584956487320" />
+    <state width="1874" height="344" key="GridCell.Tab.0.left" timestamp="1584956487314">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1584956487314" />
+    <state width="1874" height="344" key="GridCell.Tab.0.right" timestamp="1584956487320">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1584956487320" />
+    <state width="1874" height="344" key="GridCell.Tab.1.bottom" timestamp="1584629523498">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1584629523498" />
+    <state width="1874" height="344" key="GridCell.Tab.1.center" timestamp="1584629523497">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.center/0.0.1920.1053@0.0.1920.1053" timestamp="1584629523497" />
+    <state width="1874" height="344" key="GridCell.Tab.1.left" timestamp="1584629523497">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.left/0.0.1920.1053@0.0.1920.1053" timestamp="1584629523497" />
+    <state width="1874" height="344" key="GridCell.Tab.1.right" timestamp="1584629523498">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.right/0.0.1920.1053@0.0.1920.1053" timestamp="1584629523498" />
+    <state x="464" y="160" width="1024" height="843" key="SettingsEditor" timestamp="1584631458323">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="464" y="160" width="1024" height="843" key="SettingsEditor/0.0.1920.1053@0.0.1920.1053" timestamp="1584631458323" />
+    <state x="689" y="260" width="582" height="524" key="StructurePopup" timestamp="1584016228456">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="689" y="260" width="582" height="524" key="StructurePopup/0.0.1920.1053@0.0.1920.1053" timestamp="1584016228456" />
+    <state x="653" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1584908117690">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="653" y="353" key="com.intellij.ide.util.TipDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1584908117690" />
+    <state width="1162" height="450" key="javadoc.popup.new" timestamp="1584629720745">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1162" height="450" key="javadoc.popup.new/0.0.1920.1053@0.0.1920.1053" timestamp="1584629720745" />
+    <state x="666" y="146" width="577" height="757" key="refactoring.ChangeSignatureDialog" timestamp="1584628494552">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="666" y="146" width="577" height="757" key="refactoring.ChangeSignatureDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1584628494552" />
+    <state x="624" y="240" key="run.anything.popup" timestamp="1583930961997">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="624" y="240" key="run.anything.popup/0.0.1920.1053@0.0.1920.1053" timestamp="1583930961997" />
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1584631476242">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1053@0.0.1920.1053" timestamp="1584631476242" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/implementation/process/ListnerServer.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/implementation/process/ListnerServer.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
